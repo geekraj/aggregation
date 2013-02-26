@@ -8,9 +8,9 @@ public class Emp {
 			System.out.println("true");
 		}
 
-		else 
+		else {
 			System.out.println("false");
-		
+		}
 
 	}
 }
